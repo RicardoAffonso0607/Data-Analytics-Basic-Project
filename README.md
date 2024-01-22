@@ -1,2 +1,31 @@
-# Data-Analytics-Basic-Project
-Basic project using Python to analyse data and identify patterns
+# Data Analytics Basic Project
+
+## Overview
+This is a simple data analytics project implemented in Python. The project focuses on analyzing and visualizing data using the Plotly and Pandas libraries.
+
+To contextualize, in the "cancellations.csv" file, there is a database with 881.666 rows. I had to analyze this data and find why people were canceling a service so much (around 56,7%).
+
+## Libraries used
+- [Plotly](https://plotly.com/): Used for creating interactive and visually appealing plots and charts.
+- [Pandas](https://pandas.pydata.org/): Used for data manipulation and analysis.
+
+## How do I solved it?
+FIrst I tried to find patterns in the people who were canceling. Using the Pandas library I discovered that most of the people had the "Monthly" plan.
+
+<img src="" />
+
+To facilitate the data view, I utilized the Plotly library, and those were the graphics more important:
+
+<img src="https://github.com/RicardoAffonso0607/Data-Analytics-Basic-Project/assets/127418054/b9fd4ba3-db29-4056-b921-c71fb36880b2" />
+
+<img src="https://github.com/RicardoAffonso0607/Data-Analytics-Basic-Project/assets/127418054/04c246f3-fbcc-40bd-8629-088bbf853ef7" />
+
+<img src="https://github.com/RicardoAffonso0607/Data-Analytics-Basic-Project/assets/127418054/d6fc2a1e-8080-4640-8e33-95ec803c44a1" />
+
+Visualizing these graphics, I could conclude that most of the people who were canceling tried to call the assistance more than 5 times, or the service delayed more than 20 days to work. Another curious thing is that people over 50
+years old were canceling their plans.
+
+Taking these people of the database, I achieved 12,1%
+
+## Acknowledgments
+
