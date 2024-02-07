@@ -27,7 +27,7 @@ years old were canceling their plans.
 
 Taking these people of the database, I reached 12,1% of cancellations.
 
-## Conclusion
+## Conciderations
 
 This little project was interesting to understand how to manage databases.
 
@@ -35,5 +35,5 @@ With the information I gatered, I could find the main reasons people were cancel
 
 ## Acknowledgments
 
-Thank Hashtag Programação for making the data base available and to guide me in this project. Please follow them in YouTube: https://www.youtube.com/@HashtagProgramacao
+Thank Hashtag Programação for making the database available and to guide me in this project. Please follow them in YouTube: https://www.youtube.com/@HashtagProgramacao
 
