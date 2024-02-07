@@ -27,6 +27,21 @@ years old were canceling their plans.
 
 Taking these people of the database, I reached 12,1% of cancellations.
 
+## How to Run
+
+1. Clone the repository:
+   ````bash
+   git clone https://github.com/RicardoAffonso0607/Data-Analytics-Basic-Project
+2. Make sure that you've already installed the Pandas and SciKit Learn libraries:
+   ```bash
+   pip install pandas
+   pip install plotly
+3. Unzip the files
+4. Run the Project:
+   ```bash
+   python main.py # Windows
+   python3 main.py # Linux
+
 ## Conciderations
 
 This little project was interesting to understand how to manage databases.
