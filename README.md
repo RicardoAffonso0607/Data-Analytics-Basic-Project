@@ -42,7 +42,7 @@ Taking these people of the database, I reached 12,1% of cancellations.
    python main.py # Windows
    python3 main.py # Linux
 
-## Conciderations
+## Considerations
 
 This little project was interesting to understand how to manage databases.
 
